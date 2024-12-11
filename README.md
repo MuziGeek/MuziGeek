@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&color=000000&height=70&duration=4000&lines=Hi+There!+🌙+I'm+Muzi;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&color=FFAAFAFF&height=70&duration=4000&lines=Hi+There!+🌙+I'm+Muzi;" />
 </h1>
 
 
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 
 - 📫 Reach out via email at mz@easymuzi.cn.
-- 🔭 Discover more in my notebook: <a href="https://easymuzi.cn"><img src="https://img.shields.io/badge/Muzi'blog-black" /></a> .
+- 🔭 Discover more in my notebook: <a href="https://easymuzi.cn"><img src="https://img.shields.io/badge/Muzi'blog-white" /></a> .
 - 🌟 Wishing you a day filled with magical and wondrous moments.
   
 <details>
