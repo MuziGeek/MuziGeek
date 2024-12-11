@@ -29,8 +29,7 @@ Here are some ideas to get you started:
 - 📫 Reach out via email at mz@easymuzi.cn.
 - 🔭 Discover more in my notebook: <a href="https://easymuzi.cn"><img src="https://img.shields.io/badge/Muzi'blog-black" /></a> .
 - 🌟 Wishing you a day filled with magical and wondrous moments.
-
-
+  
 <details>
  <summary>Know more<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></summary>
 
@@ -54,5 +53,11 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/QQ-572428344-green?logo=tencentqq" />
 <img src="https://komarev.com/ghpvc/?username=MuziGeek&abbreviated=true&color=yellow" />
 </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuziGeek/MuziGeek/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuziGeek/MuziGeek/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MuziGeek/MuziGeek/output/github-contribution-grid-snake.svg">
+</picture>
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=lightrain-a&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
