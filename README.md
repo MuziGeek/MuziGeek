@@ -1,5 +1,5 @@
 <!--
-**lightrain-a/lightrain-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MuziGeek/MuziGeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,20 +17,18 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=lightrain-a.lightrain-a" />
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋+I'm+Muzi;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&color=000000&height=70&duration=4000&lines=Hi+There!+🌙+I'm+Muzi;" />
 </h1>
 
 
-<img src="https://stats.justsong.cn/api/csdn?id=MuziGeek&theme=dark" alt="Muzi'GitHub" style="zoom:100%;" align="right"/>
+<img src="https://stats.justsong.cn/api/github?id=MuziGeek&theme=dark" alt="Muzi'GitHub" style="zoom:100%;" align="right"/>
 
 🌈 Fake it till you make it <br />
 🌌 道阻且艰 行则将至 <br />
 
-👋 Hello there! I'm Anita, an ENFP through and through. I’m on a continuous journey to enhance my skills and satisfy my curiosity. 
-- 🌱 Expanding my knowledge in all areas of interest.
-- 💬 Let's discuss anything Cyber Science and Engineering, AI, Python, and more.
-- 📫 Reach out via email at yu24810@foxmail.com.
-- 🔭 Discover more in my notebook: <a href="https://blog.csdn.net/WTYuong/"><img src="https://img.shields.io/badge/CSDN-blog-c32136" /></a> .
+
+- 📫 Reach out via email at mz@easymuzi.cn.
+- 🔭 Discover more in my notebook: <a href="https://easymuzi.cn"><img src="https://img.shields.io/badge/Muzi'blog-black" /></a> .
 - 🌟 Wishing you a day filled with magical and wondrous moments.
 
 
@@ -40,9 +38,6 @@ Here are some ideas to get you started:
 <h2 align="left">📃 Recent Blog:</h2> 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/artist.png" />
 
-- [四年旅程，一路成长——小雨的创作纪念日](https://blog.csdn.net/wtyuong/article/details/137229014?spm=1001.2014.3001.5502) -2024-04-01
-- [量子计算与量子密码（入门级-少图版）](https://blog.csdn.net/wtyuong/article/details/134120083?spm=1001.2014.3001.5502) -2024-03-07
-- [【网安AIGC专题】46篇前沿代码大模型论文、24篇论文阅读笔记汇总](https://blog.csdn.net/wtyuong/article/details/134650727?spm=1001.2014.3001.5502) -2024-02-06
 
 
   <h2 align="left">📈 GitHub Activity Graph:</h2> 
@@ -52,5 +47,13 @@ Here are some ideas to get you started:
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=lightrain-a"></img></td>
   </tr>
 </table>
+
+<p align="center">
+<a href="https://github.com/MuziGeek"><img src="https://img.shields.io/badge/GitHub-Xiaokang2022-blue?logo=github" /></a>
+<a href="https://blog.csdn.net/weixin_44836157?type=blog"><img src="https://img.shields.io/badge/CSDN-木子金又二丨-red?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAB+FBMVEUAAABqMy7wroeAUEvuso1vOTNwOzbxt5WKYFyniYm/qKLe3s1sNTBsNjGQVkhvODR6Rj7ip4XutZOCU07wtpXxupnst5eKXFmJXlrwu5qKbWryv6Hzx62gfXuwiYb44tNvODNWNSuKUUbwr4iKUkXwsImCVUZ3Qjt5UkN3QjvwsYtGLSfws454SERyPzp4RD/ws4/ws49xPzvvtI/xtJBPODJ7S0Z7SkXWnIFiTkbVnIGCU0/ps5TxvaDwvqGSaWWSaGiOaGSTb2uPamXzx7HxyrCjhHrwrYVqMi3wrITuq4RrMy63eF9jPS/Cg2fupoLqqIHopoDfn3rXlnXAfmSwcluNWkfioHzmkXrihXXccW2zdFypbFehZlKFWUVzSTlwSTh7QThuNS9VMyjto4HlpH7ionzjh3bXmXXOkG/Mi22tb1l/UUB9TT15TDxtRzZcNytZNypRMCVPLiTrnn/cnXnZm3fZmHbhgXTddG7IiGvMgGrPY2S2gGK+e2K1dl7CXV6uel28WlqocFika1WnalWdbFOaYk6dYE6SYUySVkaQVUaIVkSCV0OHVEOJTkF4UD2CRTxmQTJaLCZXKyVNKyJJJR9EIx0+IRrTknLffXLabWzZbGzFi2u5emGucFqicVeXaFCSXUp1STpdOy1hNyxdMilXMCfoEl0hAAAAR3RSTlMA/vqLn+7meVAWDgX59/X13LSGgoF7c2hdVlJQLSklEff18/Ly7+zs5ubi4djX1szHxMG5uLSjnZaJhn1pXldEPT05Ny4nGbaUVn8AAAIPSURBVDjLvdNFlxpBEMDxBgLsknX3jbu7e1I1wzC4OyzusO7u7nFPvmYGwr4HWZJc8vI71at/H/rQTf65g3/pReclTX/qj0rKL175fW4ViBCRd0HQWjC/uFGCWaU3i/f3hyLMIXq873alKJVma3oqL8rvTw7Ns+qeALOCuMIEetTsvPBpbpdUsBSk0SMjdGag2ApJzgEBC4qxJdtQJtJDNtuYAjSCvfpMfKeMUslkOp3MoQTwxNLTup4uuyVuSfcqPoTeUfbIicN2JqoDsEW1p9zh6CowIeDXEXIfaMNasHtr+fb1nWXG7fEmGXvT2e2ZlCq4ZqChmVwC46Ar+DYe2dndjAzHk6nEsGx7d+NTPNDvGvTBVXKGMo3ie3/K8n3jm0WT6PK7NTNbm1/Nya4QjvbBOXIZjOPoVK4vmq1mzdwSUKtzGq2VWYwpnTjug2vkAdADiFa12z45EZZ5AVRfwhOTnxPdVsQBit9MiJivkqJ0Vv0x5vig1FOU3jPtcEz7Z7mlil9LOC33TiOiUwEAL139rEvNDQontzpZ95z8VI2IC8BRar16rSI9LXCrarKnWIhogTwWRGHOo2jgoRnA4Ms0ymgA0CKvgeS4y5sC6DAZ5UB19PbJAaZ4ApKn/gjNnXj1xmR63ct1+lg9+UVbJXDknZ1y4FS2Ffgytcch62hN4f/T3lhzgFPV2E7+qx9xsqq+PsbsOwAAAABJRU5ErkJggg==" /></a>
+<a href="https://space.bilibili.com/357495973"><img src="https://img.shields.io/badge/哔哩哔哩-木子金又二丨-pink?logo=bilibili" /></a>
+<img src="https://img.shields.io/badge/QQ-572428344-green?logo=tencentqq" />
+<img src="https://komarev.com/ghpvc/?username=MuziGeek&abbreviated=true&color=yellow" />
+</p>
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=lightrain-a&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
