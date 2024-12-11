@@ -41,8 +41,8 @@ Here are some ideas to get you started:
   <h2 align="left">📈 GitHub Activity Graph:</h2> 
 <table border=0>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=lightrain-a&show_icons=true&count_private=true&theme=vue-light&hide_border=true" alt="lightrain-a's GitHub stats" style="zoom:100%;" align="left"/></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=lightrain-a"></img></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=MuziGeek&show_icons=true&count_private=true&theme=vue-light&hide_border=true" alt="MuziGeek's GitHub stats" style="zoom:100%;" align="left"/></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=MuziGeek"></img></td>
   </tr>
 </table>
 <picture>
