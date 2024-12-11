@@ -45,6 +45,11 @@ Here are some ideas to get you started:
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=lightrain-a"></img></td>
   </tr>
 </table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuziGeek/MuziGeek/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuziGeek/MuziGeek/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MuziGeek/MuziGeek/output/github-contribution-grid-snake.svg">
+</picture>
 
 <p align="center">
 <a href="https://github.com/MuziGeek"><img src="https://img.shields.io/badge/GitHub-Xiaokang2022-blue?logo=github" /></a>
@@ -53,11 +58,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/QQ-572428344-green?logo=tencentqq" />
 <img src="https://komarev.com/ghpvc/?username=MuziGeek&abbreviated=true&color=yellow" />
 </p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuziGeek/MuziGeek/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuziGeek/MuziGeek/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MuziGeek/MuziGeek/output/github-contribution-grid-snake.svg">
-</picture>
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=lightrain-a&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
