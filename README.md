@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <img src="https://stats.justsong.cn/api/github?id=MuziGeek&theme=dark" alt="Muzi'GitHub" style="zoom:100%;" align="right"/>
 
 🌈 Fake it till you make it <br />
-🌌 道阻且艰 行则将至 <br />
+🌌 道阻且长 行则将至 <br />
 
 
 - 📫 Reach out via email at mz@easymuzi.cn.
