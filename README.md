@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 
 - 📫 Reach out via email at mz@easymuzi.cn.
-- 🔭 Discover more in my notebook: <a href="https://easymuzi.cn"><img src="https://img.shields.io/badge/Muzi'blog-white" /></a> .
+- 🔭 Discover more in my notebook: <a href="https://easymuzi.cn"><img src="https://img.shields.io/badge/Muzi'blog-black" /></a> .
 - 🌟 Wishing you a day filled with magical and wondrous moments.
   
 <details>
