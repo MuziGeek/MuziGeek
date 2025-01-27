@@ -42,6 +42,8 @@ Here are some ideas to get you started:
 - [宁做我](https://www.easymuzi.cn/note/life/essays/light-dream-1/)  -2024-04-01
 - [心即理](https://www.easymuzi.cn/note/life/essays/light-dream-2/)  -2024-03-07
 
+
+
 [![易信Web后端](https://github-readme-stats.vercel.app/api/pin/?username=MuziGeek&repo=easy-chat&theme=radical)](https://github.com/MuziGeek/easy-chat)
 [![易信Web前端](https://github-readme-stats.vercel.app/api/pin/?username=MuziGeek&repo=easy-chat-web&theme=radical)](https://github.com/MuziGeek/easy-chat-web)
 [![易云图库后端](https://github-readme-stats.vercel.app/api/pin/?username=MuziGeek&repo=easy-picture-backend&theme=radical)](https://github.com/MuziGeek/easy-picture-backend)
