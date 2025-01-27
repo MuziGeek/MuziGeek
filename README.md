@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 <!--<img src="https://stats.justsong.cn/api/github?id=MuziGeek&theme=dark" alt="Muzi'GitHub" style="zoom:100%;" align="right"/>-->
 <img src="https://user-assets.sxlcdn.com/images/9527/Fnrnj5JtFfuw8x4iP_-7NSZDpUaU.gif" referrerpolicy="no-referrer" align="right" >
 
+
+
 🌈 Fake it till you make it <br />
 🌌 道阻且长 行则将至 <br />
 
@@ -59,10 +61,6 @@ Here are some ideas to get you started:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MuziGeek/MuziGeek/output/github-contribution-grid-snake.svg">
 </picture>
 
-[![易信Web后端](https://github-readme-stats.vercel.app/api/pin/?username=MuziGeek&repo=easy-chat&theme=radical)](https://github.com/MuziGeek/easy-chat)
-[![易信Web前端](https://github-readme-stats.vercel.app/api/pin/?username=MuziGeek&repo=easy-chat-web&theme=radical)](https://github.com/MuziGeek/easy-chat-web)
-[![易云图库后端](https://github-readme-stats.vercel.app/api/pin/?username=MuziGeek&repo=easy-picture-backend&theme=radical)](https://github.com/MuziGeek/easy-picture-backend)
-[![易云图库前端](https://github-readme-stats.vercel.app/api/pin/?username=MuziGeek&repo=easy-picture-frontend&theme=radical)](https://github.com/MuziGeek/easy-picture-frontend)
 
 <p align="center">
 <a href="https://github.com/MuziGeek"><img src="https://img.shields.io/badge/GitHub-MuziGeek-black?logo=github" /></a>
