@@ -44,11 +44,6 @@ Here are some ideas to get you started:
 
 
 
-[![易信Web后端](https://github-readme-stats.vercel.app/api/pin/?username=MuziGeek&repo=easy-chat&theme=radical)](https://github.com/MuziGeek/easy-chat)
-[![易信Web前端](https://github-readme-stats.vercel.app/api/pin/?username=MuziGeek&repo=easy-chat-web&theme=radical)](https://github.com/MuziGeek/easy-chat-web)
-[![易云图库后端](https://github-readme-stats.vercel.app/api/pin/?username=MuziGeek&repo=easy-picture-backend&theme=radical)](https://github.com/MuziGeek/easy-picture-backend)
-[![易云图库前端](https://github-readme-stats.vercel.app/api/pin/?username=MuziGeek&repo=easy-picture-frontend&theme=radical)](https://github.com/MuziGeek/easy-picture-frontend)
-
 <h2 align="left">📈 GitHub Activity Graph:</h2> 
 <table border=0>
   <tr>
@@ -63,6 +58,11 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuziGeek/MuziGeek/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MuziGeek/MuziGeek/output/github-contribution-grid-snake.svg">
 </picture>
+
+[![易信Web后端](https://github-readme-stats.vercel.app/api/pin/?username=MuziGeek&repo=easy-chat&theme=radical)](https://github.com/MuziGeek/easy-chat)
+[![易信Web前端](https://github-readme-stats.vercel.app/api/pin/?username=MuziGeek&repo=easy-chat-web&theme=radical)](https://github.com/MuziGeek/easy-chat-web)
+[![易云图库后端](https://github-readme-stats.vercel.app/api/pin/?username=MuziGeek&repo=easy-picture-backend&theme=radical)](https://github.com/MuziGeek/easy-picture-backend)
+[![易云图库前端](https://github-readme-stats.vercel.app/api/pin/?username=MuziGeek&repo=easy-picture-frontend&theme=radical)](https://github.com/MuziGeek/easy-picture-frontend)
 
 <p align="center">
 <a href="https://github.com/MuziGeek"><img src="https://img.shields.io/badge/GitHub-MuziGeek-black?logo=github" /></a>
