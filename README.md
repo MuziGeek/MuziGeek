@@ -38,8 +38,8 @@ Here are some ideas to get you started:
 <img align="right" width="88" src="https://cdn.easymuzi.cn/img/20241211204140051.gif?imageSlim&imageSlim" />
 
 
-- [宁做我](https://www.easymuzi.cn/posts/essays1)  -2024-04-01
-- [心即理](https://www.easymuzi.cn/posts/essays2)  -2024-03-07
+- [宁做我](https://www.easymuzi.cn/note/life/essays/light-dream-1/)  -2024-04-01
+- [心即理](https://www.easymuzi.cn/note/life/essays/light-dream-2/)  -2024-03-07
 
 
 
