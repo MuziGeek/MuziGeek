@@ -30,10 +30,12 @@ Here are some ideas to get you started:
 🌌 道阻且长 行则将至 <br />
 
 - 📫 Reach out via email at mz@easymuzi.cn.
-- 🔭 Discover more in my notebook: <a href="https://easymuzi.cn"><img src="https://img.shields.io/badge/Muzi'blog-black" /></a> .
-- 🌟 Wishing you a day filled with magical and wondrous moments.
   
+- 🔭 Discover more in my notebook: <a href="https://easymuzi.cn"><img src="https://img.shields.io/badge/Muzi'blog-black" /></a> .
+  
+- 🌟 Wishing you a day filled with magical and wondrous moments.
 
+  
 <details>
  <summary>Know more<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></summary>
 
