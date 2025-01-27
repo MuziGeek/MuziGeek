@@ -21,16 +21,17 @@ Here are some ideas to get you started:
 </h1>
 
 
-<img src="https://stats.justsong.cn/api/github?id=MuziGeek&theme=dark" alt="Muzi'GitHub" style="zoom:100%;" align="right"/>
+<!--<img src="https://stats.justsong.cn/api/github?id=MuziGeek&theme=dark" alt="Muzi'GitHub" style="zoom:100%;" align="right"/>-->
+<img src="https://user-assets.sxlcdn.com/images/9527/Fnrnj5JtFfuw8x4iP_-7NSZDpUaU.gif" referrerpolicy="no-referrer" align="right" >
 
 🌈 Fake it till you make it <br />
 🌌 道阻且长 行则将至 <br />
-
 
 - 📫 Reach out via email at mz@easymuzi.cn.
 - 🔭 Discover more in my notebook: <a href="https://easymuzi.cn"><img src="https://img.shields.io/badge/Muzi'blog-black" /></a> .
 - 🌟 Wishing you a day filled with magical and wondrous moments.
   
+
 <details>
  <summary>Know more<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></summary>
 
@@ -41,14 +42,17 @@ Here are some ideas to get you started:
 - [宁做我](https://www.easymuzi.cn/note/life/essays/light-dream-1/)  -2024-04-01
 - [心即理](https://www.easymuzi.cn/note/life/essays/light-dream-2/)  -2024-03-07
 
+[![易信Web后端](https://github-readme-stats.vercel.app/api/pin/?username=MuziGeek&repo=easy-chat&theme=radical)](https://github.com/MuziGeek/easy-chat)
+[![易信Web前端](https://github-readme-stats.vercel.app/api/pin/?username=MuziGeek&repo=easy-chat-web&theme=radical)](https://github.com/MuziGeek/easy-chat-web)
+[![易云图库后端](https://github-readme-stats.vercel.app/api/pin/?username=MuziGeek&repo=easy-picture-backend&theme=radical)](https://github.com/MuziGeek/easy-picture-backend)
+[![易云图库前端](https://github-readme-stats.vercel.app/api/pin/?username=MuziGeek&repo=easy-picture-frontend&theme=radical)](https://github.com/MuziGeek/easy-picture-frontend)
 
-
-  <h2 align="left">📈 GitHub Activity Graph:</h2> 
+<h2 align="left">📈 GitHub Activity Graph:</h2> 
 <table border=0>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=MuziGeek&show_icons=true&count_private=true&theme=vue-light&hide_border=true" alt="MuziGeek's GitHub stats" style="zoom:100%;" align="left"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=MuziGeek&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="MuziGeek's GitHub stats" style="zoom:100%;" align="left"/></td>
     <td> <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuziGeek&layout=compact" alt="Top Languages Stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuziGeek&layout=compact&theme=radical" alt="Top Languages Stats">
     </a></td>
   </tr>
 </table>
