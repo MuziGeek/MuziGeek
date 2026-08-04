@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <details>
  <summary>Know more<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></summary>
 
-<h2 align="left">📃 Recent Blog:</h2> 
+<!-- <h2 align="left">📃 Recent Blog:</h2> 
 <img align="right" width="88" src="https://cdn.easymuzi.cn/img/20241211204140051.gif?imageSlim&imageSlim" />
 
 
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuziGeek&layout=compact&theme=radical" alt="Top Languages Stats">
     </a></td>
   </tr>
-</table>
+</table> -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuziGeek/MuziGeek/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuziGeek/MuziGeek/output/github-contribution-grid-snake.svg">
